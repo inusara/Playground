@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "jquery": "~1.11.1",
-    "freezeframe": "~2.0.3"
+    "freezeframe": "~2.0.3",
+    "reset-scss": "*"
   }
 }
